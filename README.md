@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**md-kabir-uddin-254/md-kabir-uddin-254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ![Design And Development]() -->
 
-Here are some ideas to get you started:
+# Md kabir uddin
+I'm md kabir uddin from Bangladesh, I do content on Design and Development.I really enjoy learning languages and frameworks like  JavaScript and React .I also enjoy learning  and coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Experience: 
+* React JS
+* Next JS
+* Node JS
+* Express JS 
+* MongoDB
+* MySQL
+* JavaScript 
+* HTML / CSS
+* Bootstarp
+* Tailwind css
+* Material-UI
+
+## Examples And Wrok
+- 🔭 I’m currently working on **simple-chat-app**
+
+## About me
+- 📫 How to reach me **mdkabiruddin254@gamil.com**
