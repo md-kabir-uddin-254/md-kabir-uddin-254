@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!-- ![Design And Development]() -->
 
 # Md kabir uddin
