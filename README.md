@@ -5,6 +5,7 @@ I'm md kabir uddin from Bangladesh, I do content on Design and Development.I rea
 
 ## Skills and Experience: 
 * React JS
+* Redux
 * Next JS
 * Node JS
 * Express JS 
